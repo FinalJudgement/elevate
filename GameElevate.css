@@ -1,0 +1,58 @@
+body {
+  padding-top: 70px;
+}
+
+.navbar-inverse .navbar-brand {
+  color: white;
+}
+.glyphicon-fire:before {
+  color: #ff5900;
+}
+.glyphicon {
+  top: -1px;
+}
+
+.glyphicon-stats {
+  background: linear-gradient(70deg, #0084ff, #ff2929, #ffff42);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+
+.jumbotron {
+  background-image: url("https://media.giphy.com/media/L0rjdh6VuWVAqndoS7/giphy.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  color: white;
+}
+
+.navbar-inverse {
+  color: black;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+  color: white;
+}
+
+.row.flex {
+  display: inline-flex;
+  width: 100%;
+}
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.boldlet {
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: black;
+  color: white;
+}
+
+.thumbnail img {
+  height: 400px;
+  width: auto;
+}
