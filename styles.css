@@ -22,7 +22,7 @@ body {
   background-image: url("https://media.giphy.com/media/L0rjdh6VuWVAqndoS7/giphy.gif");
   background-repeat: no-repeat;
   background-size: cover;
-
+min-height: 600px;
   color: white;
 }
 
